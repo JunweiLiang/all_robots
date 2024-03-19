@@ -1,0 +1,35 @@
+[0.049s] Invoking command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/src/aliengo -DCMAKE_INSTALL_PREFIX=/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo
+[0.236s] -- The C compiler identification is GNU 11.4.0
+[0.361s] -- The CXX compiler identification is GNU 11.4.0
+[0.371s] -- Detecting C compiler ABI info
+[0.457s] -- Detecting C compiler ABI info - done
+[0.469s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.469s] -- Detecting C compile features
+[0.470s] -- Detecting C compile features - done
+[0.473s] -- Detecting CXX compiler ABI info
+[0.559s] -- Detecting CXX compiler ABI info - done
+[0.565s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.565s] -- Detecting CXX compile features
+[0.566s] -- Detecting CXX compile features - done
+[0.567s] -- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.885s] -- Found Python3: /home/junweil/mambaforge/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.960s] -- Found ament_lint_auto: 0.14.3 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.982s] Traceback (most recent call last):
+[0.982s]   File "/opt/ros/iron/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.982s]     from catkin_pkg.package import parse_package_string
+[0.982s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.984s] [31mCMake Error at /opt/ros/iron/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.984s]   execute_process(/home/junweil/mambaforge/bin/python3.10
+[0.985s]   /opt/ros/iron/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.985s]   /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/src/aliengo/package.xml
+[0.985s]   /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo/ament_cmake_core/package.cmake)
+[0.985s]   returned error code 1
+[0.985s] Call Stack (most recent call first):
+[0.985s]   /opt/ros/iron/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.985s]   /opt/ros/iron/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.985s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.986s] 
+[0.986s] [0m
+[0.986s] -- Configuring incomplete, errors occurred!
+[0.986s] See also "/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo/CMakeFiles/CMakeOutput.log".
+[0.989s] Invoked command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/src/aliengo -DCMAKE_INSTALL_PREFIX=/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo

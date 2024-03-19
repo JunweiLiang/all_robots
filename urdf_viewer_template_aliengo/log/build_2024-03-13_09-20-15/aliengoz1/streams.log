@@ -1,0 +1,69 @@
+[0.056s] Invoking command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1 -- -j20 -l20
+[0.085s] -- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.201s] -- Found ament_lint_auto: 0.14.3 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.282s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.282s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.283s] -- Added test 'lint_cmake' to check CMake code style
+[0.283s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.284s] -- Added test 'xmllint' to check XML markup files
+[0.285s] -- Configuring done
+[0.287s] -- Generating done
+[0.288s] -- Build files have been written to: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1
+[0.316s] Invoked command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1 -- -j20 -l20
+[0.343s] Invoking command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1
+[0.350s] -- Install configuration: ""
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/config
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/launch
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/launch/aliengoz1.launch.py
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/maps
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/thigh_mirror.dae
+[0.350s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/trunk_uv_base_final.png
+[0.351s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/hip.dae
+[0.351s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision
+[0.351s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link06.STL
+[0.351s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link02.STL
+[0.352s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link04.STL
+[0.353s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_GripperMover.STL
+[0.354s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link03.STL
+[0.355s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_GripperStator.STL
+[0.357s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link05.STL
+[0.357s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link00.STL
+[0.358s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/collision/z1_Link01.STL
+[0.360s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/trunk.dae
+[0.363s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/calf.dae
+[0.363s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual
+[0.363s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link05.dae
+[0.364s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link04.dae
+[0.366s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link06.dae
+[0.366s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link01.dae
+[0.370s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link03.dae
+[0.372s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link00.dae
+[0.373s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_GripperStator.dae
+[0.376s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_Link02.dae
+[0.377s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/visual/z1_GripperMover.dae
+[0.379s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/meshes/thigh.dae
+[0.379s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/models
+[0.379s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/params
+[0.379s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/rviz
+[0.379s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/rviz/rviz_basic_settings.rviz
+[0.380s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/src
+[0.380s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/urdf
+[0.380s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/urdf/aliengoz1.urdf
+[0.380s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/worlds
+[0.380s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/ament_index/resource_index/package_run_dependencies/aliengoz1
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/ament_index/resource_index/parent_prefix_path/aliengoz1
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/environment/ament_prefix_path.sh
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/environment/ament_prefix_path.dsv
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/environment/path.sh
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/environment/path.dsv
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/local_setup.bash
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/local_setup.sh
+[0.380s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/local_setup.zsh
+[0.381s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/local_setup.dsv
+[0.381s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/package.dsv
+[0.381s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/ament_index/resource_index/packages/aliengoz1
+[0.381s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/cmake/aliengoz1Config.cmake
+[0.381s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/cmake/aliengoz1Config-version.cmake
+[0.381s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengoz1/share/aliengoz1/package.xml
+[0.382s] Invoked command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1

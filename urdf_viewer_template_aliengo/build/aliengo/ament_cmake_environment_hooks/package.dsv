@@ -1,0 +1,4 @@
+source;share/aliengo/local_setup.bash
+source;share/aliengo/local_setup.dsv
+source;share/aliengo/local_setup.sh
+source;share/aliengo/local_setup.zsh

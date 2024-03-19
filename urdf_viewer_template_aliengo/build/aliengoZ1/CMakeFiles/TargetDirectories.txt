@@ -1,0 +1,9 @@
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/uninstall.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/aliengoz1_uninstall.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/test.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/edit_cache.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/rebuild_cache.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/list_install_components.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/install.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/install/local.dir
+/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengoz1/CMakeFiles/install/strip.dir

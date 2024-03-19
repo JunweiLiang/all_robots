@@ -1,0 +1,39 @@
+[0.058s] Invoking command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo -- -j20 -l20
+[0.097s] Invoked command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo -- -j20 -l20
+[0.127s] Invoking command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo
+[0.133s] -- Install configuration: ""
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/config
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/launch
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/launch/aliengo.launch.py
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/maps
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes/thigh_mirror.dae
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes/trunk_uv_base_final.png
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes/hip.dae
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes/trunk.dae
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes/calf.dae
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/meshes/thigh.dae
+[0.133s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/models
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/params
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/rviz
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/rviz/rviz_basic_settings.rviz
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/src
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/urdf
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/urdf/aliengo.urdf
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/worlds
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/ament_index/resource_index/package_run_dependencies/aliengo
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/ament_index/resource_index/parent_prefix_path/aliengo
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/environment/ament_prefix_path.sh
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/environment/ament_prefix_path.dsv
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/environment/path.sh
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/environment/path.dsv
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/local_setup.bash
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/local_setup.sh
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/local_setup.zsh
+[0.134s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/local_setup.dsv
+[0.134s] -- Installing: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/package.dsv
+[0.135s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/ament_index/resource_index/packages/aliengo
+[0.135s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/cmake/aliengoConfig.cmake
+[0.135s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/cmake/aliengoConfig-version.cmake
+[0.135s] -- Up-to-date: /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/install/aliengo/share/aliengo/package.xml
+[0.135s] Invoked command in '/home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/junweil/projects/robot_urdfs/urdf_viewer_template_aliengo/build/aliengo

@@ -1,0 +1,8 @@
+source;share/aliengo/hook/cmake_prefix_path.ps1
+source;share/aliengo/hook/cmake_prefix_path.dsv
+source;share/aliengo/hook/cmake_prefix_path.sh
+source;share/aliengo/local_setup.bash
+source;share/aliengo/local_setup.dsv
+source;share/aliengo/local_setup.ps1
+source;share/aliengo/local_setup.sh
+source;share/aliengo/local_setup.zsh
